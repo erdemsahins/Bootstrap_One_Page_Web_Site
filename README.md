@@ -1,6 +1,6 @@
 # CiftciOgullariOtoYikama
 
-bootstrap ve lightbox kullanımıştır.
+Bootstrap ve Lightbox kullanımıştır.
 
 Ön İzleme için tıklayınız.
 http://ciftciogullariotoyikama.com/
