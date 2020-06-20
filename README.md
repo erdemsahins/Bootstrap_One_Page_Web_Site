@@ -1,4 +1,4 @@
-# CiftciOgullariOtoYikama.com Web Site
+# Ciftciogullariotoyikama.com Web Site
 
 Bootstrap ve Lightbox kullanımıştır.
 
