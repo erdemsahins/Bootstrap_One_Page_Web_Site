@@ -1,6 +1,6 @@
 # Ciftciogullariotoyikama.com Web Site
 
-Bootstrap ve Lightbox kullanımıştır.
+Oto Yıkama icin yapılmıştır. Bootstrap ve Lightbox kullanımıştır.
 
 ## Ekran Görüntsü
 
